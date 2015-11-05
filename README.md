@@ -1,10 +1,8 @@
 # brian-discuss
 
-The "mailing-list" for brian
+The **"mailing-list"** for the [Brian](https://github.com/OpenDirective/brian) project.
 
 **Lead Maintainer**: [Steve Lee](https://github.com/SteveALee)
-
-This is a general discussion repository for the [Brian](https://github.com/OpenDirective/brian) project.
 
 ## Guidelines
 
