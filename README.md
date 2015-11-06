@@ -1,5 +1,7 @@
 # brian-discuss
 
+[![Join the chat at https://gitter.im/OpenDirective/brian-discuss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OpenDirective/brian-discuss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The **"mailing-list"** for the [Brian](https://github.com/OpenDirective/brian) project.
 
 **Lead Maintainer**: [Steve Lee](https://github.com/SteveALee)
